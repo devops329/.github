@@ -4,6 +4,8 @@
 
 ![cover](https://github.com/softwaredeliverymanagement329/softwaredeliverymanagement/blob/main/softwaredeliverymanagementcover.jpg?raw=true)
 
+_Image Source: [Fauxels](https://www.pexels.com/photo/people-working-in-front-of-the-computer-3184357)_
+
 ## Welcome
 
 Software Delivery Management provides you with the experience and skills necessary to deploy, manage, and ensure the quality of a modern software application. This includes automated testing at all levels, continuous integration and deployment pipelines, application monitoring, failure detection, alerting, and elastic application scaling.
@@ -50,4 +52,3 @@ The course covers a full spectrum of software delivery management technologies.
   - Backup/restore (AWS Aurora)
   - Recovery time objective (RTO), Recovery point objective (RPO), playbooks
 
-_Image Source: [Fauxels](https://www.pexels.com/photo/people-working-in-front-of-the-computer-3184357)_
