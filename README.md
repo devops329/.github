@@ -1,5 +1,5 @@
-# BYU **Software Management** `cs240`
+# BYU **Software Delivery Management** `cs329`
 
 ![byu](byuLogo.png)
 
-Welcome to Software Management 240. To get started [view the course page](profile/README.md).
+Welcome to Software Delivery Management 329. To get started [view the course page](https://github.com/softwaredeliverymanagement329/softwaredeliverymanagement).

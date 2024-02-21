@@ -12,8 +12,10 @@ Software Delivery Management provides you with the experience and skills necessa
 
 The content for this course is represented by the following parts.
 
+- [Schedule](https://github.com/softwaredeliverymanagement329/softwaredeliverymanagement/blob/main/schedule/schedule.md)
 - [Instruction](https://github.com/softwaredeliverymanagement329/softwaredeliverymanagement/blob/main/instruction/modules.md#readme)
-- Assignments, quizzes, and tests submitted through Canvas
+- Pizza Factory
+- Assignments and tests submitted through [Canvas](https://byu.instructure.com)
 
 ## Outcomes
 
@@ -51,4 +53,3 @@ The course covers a full spectrum of software delivery management technologies.
   - Alerts, response teams, pager duty, resolution documentation, triages
   - Backup/restore (AWS Aurora)
   - Recovery time objective (RTO), Recovery point objective (RPO), playbooks
-
